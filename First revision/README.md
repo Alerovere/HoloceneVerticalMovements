@@ -9,7 +9,6 @@ The folder Common era plots contains the scripts and data used to build Figure 7
 If you use this script, please add a reference to Kopp, R.E., Kemp, A.C., Bittermann, K., Horton, B.P., Donnelly, J.P., Gehrels, W.R., Hay, C.C., Mitrovica, J.X., Morrow, E.D., Rahmstorf, S., 2016. Temperature-driven global sea-level variability in the Common Era. PNAS 1–8. https://doi.org/10.1073/pnas.1517056113
 
 
-If you use these scripts, please cite the following paper:
-Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Jompa, J., Rovere, A. (submitted). Holocene and Common Era sea level changes in the Makassar Strait, Indonesia.
-
+These scripts were prepared for the first version of this paper:
+https://www.clim-past-discuss.net/cp-2019-63/cp-2019-63.pdf
 
