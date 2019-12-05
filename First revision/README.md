@@ -11,3 +11,9 @@ The folder "Common era plots" contains the scripts and data used to build Figure
 These scripts were prepared for the first version of *Bender et al. (Climate of the Past Discussions)*, available at this link: https://www.clim-past-discuss.net/cp-2019-63/cp-2019-63.pdf
 
 **In the revised version of the paper, both scripts were modified and subsituted by Python code.**
+
+If you use this work, please consider citing this paper:
+> Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Jompa, J., and Rovere, A.: Holocene and Common Era sea level changes in the Makassar Strait, Indonesia, Clim. Past Discuss., https://doi.org/10.5194/cp-2019-63, in review, 2019.
+
+## Acknowledgments
+This work was supported through grant SEASCHANGE (RO-5245/1-1) from the Deutsche Forschungsgemeinschaft (DFG) as part of the Special Priority Program (SPP)-1889 “Regional Sea Level Change and Society”
