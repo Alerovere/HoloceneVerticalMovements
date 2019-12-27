@@ -1,8 +1,9 @@
 # SE Asia Sealevel
 
-This repository contains three folders.
+This repository contains three folders with data and scripts to analyze/plot them. The content of this folder was prepared for the revised version of *Bender et al. (Climate of the Past Discussions)*, available at this link: https://doi.org/10.5194/cp-2019-63
 
-## GIA Models
+
+## Folder **GIA Models**
 This folder contains NetCDF files of the 54 GIA models described in the paper (subfolder "All_GIA_Models") and an extract of the sea level data points presented in the paper in xslx format, that serves as template for RSl observations. Three jupyter notebooks are provided to extract and plot both models and data.
 
 ### Modern GIA rates calculation
@@ -14,11 +15,6 @@ This script is designed to plot the Relative Sea Level as predicted by different
 ### RSL versus Time plots
 This script is written to extract localized RSL predictions from GIA models and compare them to RSL observations under user-selected uplift or subsidence scenarios.
 
-
-
-
-
-These scripts were prepared for the revised version of *Bender et al. (Climate of the Past Discussions)*, available at this link: https://doi.org/10.5194/cp-2019-63
 
 
 If you use this work, please consider citing this paper:
