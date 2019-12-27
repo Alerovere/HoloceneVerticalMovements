@@ -2,16 +2,16 @@
 
 This repository contains three folders.
 
-##GIA Models
+## GIA Models
 This folder contains NetCDF files of the 54 GIA models described in the paper (subfolder "All_GIA_Models") and an extract of the sea level data points presented in the paper in xslx format, that serves as template for RSl observations. Three jupyter notebooks are provided to extract and plot both models and data.
 
 ### Modern GIA rates calculation
 This script extracts RSL data from the models in the folder "GIA Model Plotting scripts/All_GIA_models" and calculates the rate of GIA since the last time step (1000 years for ANICE, 500 years for ICE5g and ICE6g). Then, it calculates the total vertical land movement (VLM) due to GIA. This approximates current GIA-related VLM. 
 
-###GIA maps
+### GIA maps
 This script is designed to plot the Relative Sea Level as predicted by different GIA models, contained into the folder "All_GIA_models".
 
-###RSL versus Time plots
+### RSL versus Time plots
 This script is written to extract localized RSL predictions from GIA models and compare them to RSL observations under user-selected uplift or subsidence scenarios.
 
 
