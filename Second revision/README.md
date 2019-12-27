@@ -1,9 +1,8 @@
 # SE Asia Sealevel
-
 This repository contains three folders with data and scripts to analyze/plot them. The content of this folder was prepared for the revised version of *Bender et al. (Climate of the Past Discussions)*, available at this link: https://doi.org/10.5194/cp-2019-63
 
 
-## Folder **GIA Models**
+## Folder GIA Models
 This folder contains NetCDF files of the 54 GIA models described in the paper (subfolder "All_GIA_Models") and an extract of the sea level data points presented in the paper in xslx format, that serves as template for RSl observations. Three jupyter notebooks are provided to extract and plot both models and data.
 
 ### Modern GIA rates calculation
@@ -14,6 +13,14 @@ This script is designed to plot the Relative Sea Level as predicted by different
 
 ### RSL versus Time plots
 This script is written to extract localized RSL predictions from GIA models and compare them to RSL observations under user-selected uplift or subsidence scenarios.
+
+## Folder RSL density plots
+### Sea Level Data plot
+This script plots sea level data to highlight spatio-temporal clustering using the seaborn Kernel Density Estimate plot template. Relative Sea Level data is provided via a spreadsheet. Two example spreadsheets are given inside the folder, and were used in Bender et al.
+
+## Folder Vertical crustal movement calculations
+### Orthogonal Distance Regression 
+This scripts calculates the residual vertical land movement starting from Common Era RSL data, once post-industrial RSL rise and GIA are taken into account. The results are then plotted together with an orthogonal distance regression that represents the crustal movement since the RSL index points were formed.
 
 
 
