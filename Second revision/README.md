@@ -20,7 +20,10 @@ This script plots sea level data to highlight spatio-temporal clustering using t
 
 ## Folder Vertical crustal movement calculations
 ### Orthogonal Distance Regression 
-This scripts calculates the residual vertical land movement starting from Common Era RSL data, once post-industrial RSL rise and GIA are taken into account. The results are then plotted together with an orthogonal distance regression that represents the crustal movement since the RSL index points were formed.
+This scripts calculates the residual vertical land movement starting from Common Era RSL data, once post-industrial RSL rise and GIA are taken into account. The results are then plotted together with an orthogonal distance regression that represents the crustal movement since the RSL index points were formed. In the submitted version of the paper, the outputs of this scripts were substituted by the outputs of the one below.
+
+### Montecarlo Regression for RSL data
+This scripts loads Common Era sea level data and calculates residual vertical land movements (VLM), once post-industrial RSL rise and GIA are taken into account. The calculation of VLM is done by randomply sampling (10<sup>4</sup> times) corrected RSL and age within their error bars and fitting a linear regression through the points. Max, min, average and Standard deviation slopes of regression lines (corresponding to VLM) are then calculated and plotted.
 
 ## Acknowledgments
 If you use this work, please consider citing this paper:
