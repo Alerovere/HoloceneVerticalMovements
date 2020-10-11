@@ -1,16 +1,17 @@
 # SE-Asia-Sealevel
-This repository contains the scripts that were used in different versions of this paper:
-> Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Jompa, J., and Rovere, A.: Holocene and Common Era sea level changes in the Makassar Strait, Indonesia, Clim. Past Discuss., https://doi.org/10.5194/cp-2019-63, in review, 2019.
+This repository contains the scripts that were used in the discussion and final version of:
+> Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Jompa, J., and Rovere, A.: Holocene and Common Era sea level changes in the Makassar Strait, Indonesia, Clim. Past Discuss., https://doi.org/10.5194/cp-2019-63, 2019.
+
+> Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Illigner, J., Jompa, J., and Rovere, A.: Late Holocene (0–6 ka) sea-level changes in the Makassar Strait, Indonesia, Clim. Past, 16, 1187–1205, https://doi.org/10.5194/cp-16-1187-2020, 2020.
 
 [![DOI](https://zenodo.org/badge/179329914.svg)](https://zenodo.org/badge/latestdoi/179329914)
-
 
 There are two folders in the repository:
 ## First review
 This folder refers to the first version of the paper, that was under review in 2019. The matlab scripts contained in the folder were used to derive Figures 7 and 8 of this version of the paper, available here: https://www.clim-past-discuss.net/cp-2019-63/cp-2019-63.pdf
 
 ## Second review
-This folder refers to the revised version of the paper (R1), that was submitted in january 2020. This folder contains different jupyter notebooks and data that were used to compile Figures 5,6,9,10,11 of the revised paper. 
+This folder refers to the revised version of the paper (R1), that was submitted in january 2020. This folder contains different jupyter notebooks and data that were used to compile Figures 5,6,9,10,11 of the revised paper, available here: https://doi.org/10.5194/cp-16-1187-2020
 
 Refer to the "Readme" files in each folder for details.
 
