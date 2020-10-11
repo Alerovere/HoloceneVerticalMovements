@@ -1,6 +1,7 @@
 # SE Asia Sealevel
-This repository contains three folders with data and scripts to analyze/plot them. The content of this folder was prepared for the revised version of *Bender et al. (Climate of the Past Discussions)*, available at this link: https://doi.org/10.5194/cp-2019-63
+This repository contains three folders with data and scripts to analyze/plot them. The content of this folder was used in the following paper: 
 
+> Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Illigner, J., Jompa, J., and Rovere, A.: Late Holocene (0–6 ka) sea-level changes in the Makassar Strait, Indonesia, Clim. Past, 16, 1187–1205, https://doi.org/10.5194/cp-16-1187-2020, 2020.
 
 ## Folder GIA Models
 This folder contains NetCDF files of the 54 GIA models described in the paper (subfolder "All_GIA_Models") and an extract of the sea level data points presented in the paper in xslx format, that serves as template for RSl observations. Three jupyter notebooks are provided to extract and plot both models and data.
@@ -27,6 +28,7 @@ This scripts loads Common Era sea level data and calculates residual vertical la
 
 ## Acknowledgments
 If you use this work, please consider citing this paper:
-> Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Jompa, J., and Rovere, A.: Holocene and Common Era sea level changes in the Makassar Strait, Indonesia, Clim. Past Discuss., https://doi.org/10.5194/cp-2019-63, in review, 2019.
+
+> Bender, M., Mann, T., Stocchi, P., Kneer, D., Schöne, T., Illigner, J., Jompa, J., and Rovere, A.: Late Holocene (0–6 ka) sea-level changes in the Makassar Strait, Indonesia, Clim. Past, 16, 1187–1205, https://doi.org/10.5194/cp-16-1187-2020, 2020.
 
 This work was supported through grant SEASCHANGE (RO-5245/1-1) from the Deutsche Forschungsgemeinschaft (DFG) as part of the Special Priority Program (SPP)-1889 “Regional Sea Level Change and Society”
